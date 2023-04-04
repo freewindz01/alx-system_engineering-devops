@@ -29,3 +29,4 @@ sudo sed -i "s/listen 80 default_server;/$string_for_replacement/" /etc/nginx/si
 
 # Restart web server
 sudo service nginx restart
+
